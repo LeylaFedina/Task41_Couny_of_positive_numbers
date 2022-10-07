@@ -1,0 +1,15 @@
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\bin\Debug\net6.0\Task41_Couny_of_positive_numbers.exe
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\bin\Debug\net6.0\Task41_Couny_of_positive_numbers.deps.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\bin\Debug\net6.0\Task41_Couny_of_positive_numbers.runtimeconfig.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\bin\Debug\net6.0\Task41_Couny_of_positive_numbers.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\bin\Debug\net6.0\Task41_Couny_of_positive_numbers.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.csproj.AssemblyReference.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.AssemblyInfoInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.AssemblyInfo.cs
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.csproj.CoreCompileInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\refint\Task41_Couny_of_positive_numbers.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\Task41_Couny_of_positive_numbers.genruntimeconfig.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 6 04.10.2022\Task41_Couny_of_positive_numbers\obj\Debug\net6.0\ref\Task41_Couny_of_positive_numbers.dll
